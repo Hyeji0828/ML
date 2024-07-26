@@ -3,12 +3,5 @@
 # ResNet50
 # SwinTransformer
 
-
-# <tensorflow>
-
-
-# <mmcv>
-
-
 # <timm>
 
