@@ -1,0 +1,7 @@
+# SGD
+
+# Momentum
+
+# AdaGrad
+
+# Adam
